@@ -1,0 +1,21 @@
+# GUI framework
+PyQt5>=5.15.0
+
+
+# Numerical computation
+numpy>=1.24.0
+
+
+# Medical image processing
+opencv-python>=4.8.0
+Pillow>=10.0.0
+scikit-image>=0.21.0
+
+
+# Deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+
+# Visualization
+matplotlib>=3.7.0
